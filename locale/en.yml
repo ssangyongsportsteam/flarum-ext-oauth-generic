@@ -29,4 +29,4 @@ fof-oauth:
 
   lib:
     providers:
-      generic: Generic
+      generic: 雙龍體育登入系統
