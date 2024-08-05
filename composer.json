@@ -1,5 +1,5 @@
 {
-    "name": "SSPORT12/oauth-generic",
+        "name": "ssport/oauth-generic",
     "description": "Generic OAuth2 provider for Flarum",
     "keywords": [
         "flarum"
