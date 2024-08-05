@@ -25,8 +25,8 @@ fof-oauth:
       with_generic_button: '=> fof-oauth.forum.log_in.with_button'
 
     providers:
-      generic: '=> fof-oauth.lib.providers.generic'
-
+      generic: 使用雙龍體育登入
+      
   lib:
     providers:
       generic: 雙龍體育登入系統
